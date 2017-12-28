@@ -12,6 +12,13 @@ keywords: windows 10, uwp
 ms.assetid: 74373c24-f948-43bb-aa85-01e2e8e87162
 ms.localizationpriority: high
 ---
+![RayPack-Studio_2017_4c.png](https://www.bildhost.com/images/2017/12/28/RayPack-Studio_2017_4c.png)
+# RayPack Studio
+Raynet's packaging solution [RayPack Studio](https://raynet.de/en/Raynet-Products/RayPackStudio) supports Universal Windows Platform (UWP) bridge as one of several possible outcomes of efficient and easy-to-configure conversion and repackaging framework. UWP Bridge allows older desktop applications to be distributed via Windows Store and use modern security features by wrapping them in APPX containers. Existing virtual environments (VMware Workstation, Hyper-V) can be used to perform automated/bulk conversion without lengthy environment setup. A component of RayPack Studio, [RayQC Advanced](https://raynet.de/en/Raynet-Products/RayQCad), is able to make pre-conversion screening and compatibility tests to verify software eligible for conversion. Additionally, users can now perform comprehensive collision and compatibility checks with various Windows 10 editions including Anniversary and Creators updates.
+ 
+Next to the creation of software packages for Windows 10 APPX/UWP format, RayPack Studio can also be used to create classic Windows Installer packages (MSI), patches (MSP), transforms (MST), and App-V packages. Furthermore, this solution comes along with a set of software products and components for professional enterprise software packaging. In addition to software packaging and virtualization, RayPack Studio considers all packaging-related tasks: Conflict and compatibility checks of software applications and packages ([RayQC Advanced](https://raynet.de/en/Raynet-Products/RayQCad)), software evaluation ([RayEval](https://raynet.de/de/Raynet-Products/RayEval)), and quality assurance ([RayQC](https://raynet.de/de/Raynet-Products/RayQC)). Combined together, they allow users to efficiently work on the software through the whole enterprise application lifecycle, from package ordering, through evaluation, analysis, packaging, quality assurance, user acceptance tests as well as deployment. 
+
+Raynet offers a [free 21-day trial license](https://raynet.de/en/contact?init=license) of RayPack Studio in full version. 
 
 # Desktop Bridge
 
